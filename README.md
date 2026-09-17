@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./akebi-ocean.gif" width="100%" alt="Akebi-chan animated header" />
+  <img src="./chitanda-header-hd.gif" width="100%" alt="Chitanda animated HD header" />
 
 <br><br>
 
