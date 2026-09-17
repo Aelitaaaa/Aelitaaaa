@@ -49,8 +49,14 @@ Languages and Tools
 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aelitaaaa&show_icons=true&theme=transparent&title_color=79B8FF&text_color=CDD9E5&icon_color=F5A9C2&border_color=79B8FF&border_radius=14" alt="Dzaky's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aelitaaaa&layout=compact&theme=transparent&title_color=79B8FF&text_color=CDD9E5&border_color=79B8FF&border_radius=14" alt="Dzaky's most used languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aelitaaaa&theme=github_dark" alt="Dzaky's GitHub profile summary" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aelitaaaa&theme=github_dark" alt="Repositories by language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aelitaaaa&theme=github_dark" alt="GitHub statistics" />
 </div>
 
 <br>
@@ -61,31 +67,24 @@ GitHub Stats
 
 Featured Journey
 
-<div align="center">
-
-Learning
-
-Building
-
-Dreaming
-
-Modern web development
-
-Useful and beautiful apps
-
-Becoming a Full Stack Developer
-
-</div>
+<table align="center">
+  <tr>
+    <th align="center">Learning</th>
+    <th align="center">Building</th>
+    <th align="center">Goal</th>
+  </tr>
+  <tr>
+    <td align="center">Modern web development</td>
+    <td align="center">Useful and beautiful applications</td>
+    <td align="center">Become a Full Stack Developer</td>
+  </tr>
+</table>
 
 Connect With Me
 
 <div align="center">
   <a href="https://github.com/Aelitaaaa">
     <img src="https://img.shields.io/badge/GitHub-Aelitaaaa-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <!-- Ganti # dengan tautan Instagram atau LinkedIn kamu. -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-Coming%20Soon-F5A9C2?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
