@@ -1,112 +1,98 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:79B8FF,50:F5A9C2,100:A8D8EA&height=190&section=header&text=Muhamad%20Dzaky%20Putra%20Fardian&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%7C%20Future%20Full%20Stack%20Developer&descAlignY=58" alt="Profile header" />
-
-<img src="https://media.tenor.com/TLFbVeaFAA0AAAAC/akebi-chan-komichi.gif" width="430" alt="Akebi animation" />
+<img src="https://media.tenor.com/TLFbVeaFAA0AAAAC/akebi-chan-komichi.gif" width="100%" alt="Akebi-chan animated header" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=27&duration=3000&pause=900&color=79B8FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+little+coding+corner;Learning+one+step+at+a+time;Building+useful+and+beautiful+things" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=38&duration=3500&pause=1200&color=E6EDF3&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Muhamad+Dzaky+Putra+Fardian" alt="Muhamad Dzaky Putra Fardian" />
 
 <br>
 
-<a href="https://github.com/Aelitaaaa">
-  <img src="https://img.shields.io/badge/GitHub-Aelitaaaa-20232A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/Aelitaaaa/portofolio">
-  <img src="https://img.shields.io/badge/My-Portfolio-F5A9C2?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Informatics+Student;Aspiring+Full+Stack+Developer;Learning%2C+Building%2C+Improving" alt="Profile roles" />
+
+<br>
+
+<img src="https://img.shields.io/badge/WEB-DEVELOPER-1F6FEB?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%2FUX-ENTHUSIAST-238636?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/ANIME-AKEBI--CHAN-30363D?style=for-the-badge&logo=crunchyroll&logoColor=white" />
 
 </div>
 
-<br>
+Rapid Fire
 
-<h2 align="center">About Me</h2>
+I am currently studying Informatics at Gunadarma University
 
-<p align="center">
-  Hi, I am <b>Muhamad Dzaky Putra Fardian</b>, an Informatics student at
-  <b>Gunadarma University</b>. I am currently exploring modern web development
-  and working toward my goal of becoming a <b>Full Stack Developer</b>.
+I am currently learning Full Stack Web Development
+
+I am exploring Laravel, JavaScript, React, MySQL, Java, and Python
+
+My career goal is to become a Full Stack Developer
+
+I enjoy anime, manga, light novels, and games
+
+My favorite anime is Akebi-chan no Sailor-fuku
+
+Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-233056?style=for-the-badge&logo=nodedotjs&logoColor=68A063" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<p align="center">
-  I enjoy combining clean interfaces with useful features. Outside coding,
-  I spend my free time enjoying anime, manga, light novels, and games.
-  My favorite anime is <b>Akebi-chan no Sailor-fuku</b>.
+Favorite Things
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Anime-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Manga-161B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Light%20Novel-21262D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Games-30363D?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Student-Gunadarma%20University-79B8FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Major-Informatics-A8D8EA?style=flat-square" />
-  <img src="https://img.shields.io/badge/Goal-Full%20Stack%20Developer-F5A9C2?style=flat-square" />
-</p>
-
-<br>
-
-<h2 align="center">My Tech Garden</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,react,nodejs,java,python,dart,flutter,git,github,vscode&perline=8" alt="Technology stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-79B8FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel-F5A9C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Database-MySQL-A8D8EA?style=flat-square" />
-</p>
-
-<br>
-
-<h2 align="center">Things I Love</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Development-79B8FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%20and%20UX-F5A9C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Anime-A8D8EA?style=for-the-badge" />
-  <br>
-  <img src="https://img.shields.io/badge/Manga-B39DDB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Light%20Novel-EF9A9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Games-90CAF9?style=for-the-badge" />
-</p>
-
-<br>
+GitHub Stats
 
 <div align="center">
-  <img src="https://media.tenor.com/zPH-32am0CwAAAAM/akebi-chan-akebi-komichi.gif" width="160" alt="Akebi manga animation" />
-</div>
-
-<br>
-
-<h2 align="center">GitHub Activity</h2>
-
-<div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aelitaaaa&theme=tokyonight" alt="GitHub activity graph" />
-  <br>
-  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aelitaaaa&theme=tokyonight" alt="Repositories by language" />
-  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aelitaaaa&theme=tokyonight" alt="GitHub statistics" />
+  <img width="72%" src="https://ghstats.dev/api/card?username=Aelitaaaa&theme=midnight&show_ring=false" alt="GitHub statistics" />
   <br><br>
-  <img width="72%" src="https://streak-stats.demolab.com?user=Aelitaaaa&theme=tokyonight&hide_border=true&border_radius=14" alt="Contribution streak" />
+  <img width="72%" src="https://ghstats.dev/api/langs?username=Aelitaaaa&theme=nightowl&max_langs=11&layout=grid" alt="Most used languages" />
 </div>
 
-<br>
-
-<h2 align="center">My Pixel Companion</h2>
+My GitHub Pet
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Aelitaaaa&utm_content=line">
-    <img src="https://render.gitanimals.org/lines/Aelitaaaa" width="90%" alt="Animated GitHub pet" />
+    <img src="https://render.gitanimals.org/lines/Aelitaaaa" width="100%" alt="Animated GitHub pet" />
   </a>
 </div>
+
+Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Aelitaaaa">
+    <img src="https://img.shields.io/badge/GitHub-Aelitaaaa-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Aelitaaaa/portofolio">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Project-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aelitaaaa&label=Profile%20Views&color=79b8ff&style=for-the-badge" alt="Profile views" />
-
-<br><br>
-
-<i>Thank you for visiting my profile.</i>
-
+  <img src="https://komarev.com/ghpvc/?username=Aelitaaaa&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile views" />
+  <br><br>
+  <i>Consistency beats intensity.</i>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A8D8EA,50:F5A9C2,100:79B8FF&height=120&section=footer" alt="Profile footer" />
