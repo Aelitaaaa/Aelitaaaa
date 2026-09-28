@@ -233,6 +233,17 @@ My personal portfolio where I showcase projects, technologies, interests, and my
 
 <div align="center">
 
+<p>
+  <img
+    src="https://github.com/Aelitaaaa/Aelitaaaa/actions/workflows/snake.yml/badge.svg"
+    alt="Snake workflow"
+  />
+  <img
+    src="https://img.shields.io/badge/Contribution%20Snake-Updated%20Daily-8250DF?style=flat-square"
+    alt="Updated daily"
+  />
+</p>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -249,11 +260,11 @@ My personal portfolio where I showcase projects, technologies, interests, and my
   />
 </picture>
 
-<sub>Every contribution is another step forward.</sub>
+<p>
+  <sub>Code. Commit. Improve. Repeat.</sub>
+</p>
 
 </div>
-
----
 
 ## Development Approach
 
