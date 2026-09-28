@@ -206,26 +206,26 @@ My personal portfolio where I showcase projects, technologies, interests, and my
 
 ## GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img
+    width="400"
+    src="https://ghstats.dev/api/card?username=Aelitaaaa&theme=midnight&show_ring=false"
+    alt="GitHub Statistics"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    width="400"
+    src="https://ghstats.dev/api/langs?username=Aelitaaaa&theme=nightowl&max_langs=11&layout=grid"
+    alt="Most Used Languages"
+  />
+</p>
 
-<img
-  width="49%"
-  src="https://ghstats.dev/api/card?username=Aelitaaaa&theme=midnight&show_ring=false"
-  alt="GitHub statistics"
-/>
-
-<img
-  width="49%"
-  src="https://ghstats.dev/api/langs?username=Aelitaaaa&theme=nightowl&max_langs=8&layout=compact"
-  alt="Most used languages"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=Aelitaaaa&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=A371F7&currStreakLabel=58A6FF"
-  alt="GitHub streak"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Aelitaaaa&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=A371F7&currStreakLabel=58A6FF"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
